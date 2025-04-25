@@ -22,12 +22,6 @@ Seaborn
 # What I Did (Steps Followed)
 Loaded the Titanic dataset using Pandas.
 
-Explored the data using:
-
-df.head(), df.info(), df.describe()
-
-Checked missing values using df.isnull().sum()
-
 Visualized data using:
 
 Histograms for numeric distributions
