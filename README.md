@@ -47,7 +47,6 @@ Fare and Pclass are somewhat correlated with survival.
 
 Outliers were present in Fare and Age columns.
 
-Missing values were found mostly in the Age column.
 
 # What I Learned
 How to perform basic EDA using Python
