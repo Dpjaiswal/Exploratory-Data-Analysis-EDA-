@@ -62,9 +62,4 @@ How to detect skewness, outliers, and relationships between features
 
 How visualizations help in understanding data better
 
-# Submission
-You can find the complete notebook in this repository along with the code, output plots, and this README.
 
-# Author
-Ajay – M.Sc. IT (AI) Student
-AI & ML Internship – EDA Task
