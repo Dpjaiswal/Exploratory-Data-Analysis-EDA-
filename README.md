@@ -8,7 +8,7 @@ This project is part of the AI & ML internship where we performed Exploratory Da
 Titanic dataset from Kaggle
 Download Link
 
-🛠# Tools & Libraries
+# Tools & Libraries
 Python 
 
 Pandas 
