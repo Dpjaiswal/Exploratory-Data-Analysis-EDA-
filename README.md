@@ -38,7 +38,6 @@ Survival rate was higher in 1st class and among females
 
 Fare was right-skewed (outliers present)
 
-Age had many missing values
 
 # Key Insights
 Females and children had higher survival rates.
